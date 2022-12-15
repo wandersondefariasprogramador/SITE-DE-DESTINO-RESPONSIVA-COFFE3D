@@ -11,7 +11,7 @@ Belo site da página de destino oi, usando Html Css e JavaScript. Ele contém um
 
 
 
-<img src="./LOGO SITE.JPG/" width="250px" alt="LOGO">
+<img src="./logo.jpg/" width="250px" alt="#">
 
 ### Ajustes e melhorias
 

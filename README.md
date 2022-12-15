@@ -55,6 +55,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
  
 </table>
  
- check application <a href=" https://wandersondefariasprogramador.github.io/SITE-DE-DESTINO-RESPONSIVA-COFFE3D/
+ check application <a href="https://wandersondefariasprogramador.github.io/SITE-DE-DESTINO-RESPONSIVA-COFFE3D/
  ">HERE!</a>
 

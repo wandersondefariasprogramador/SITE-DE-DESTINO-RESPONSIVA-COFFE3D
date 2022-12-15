@@ -9,7 +9,7 @@ Belo site da página de destino oi, usando Html Css e JavaScript. Ele contém um
 - Desenvolvido primeiro com a metodologia Mobile First, depois para desktop.
 - Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
 
-## 🎨 Layout
+
 
 <img src="./LOGO SITE.JPG/" width="250px" alt="LOGO">
 
